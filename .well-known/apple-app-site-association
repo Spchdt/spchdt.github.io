@@ -1,0 +1,10 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appID": "TXA55YRPTR.com.artties.HueHouse",
+        "paths": ["*", "/launch/*"]
+      }
+    ]
+  }
+}
